@@ -27,9 +27,15 @@ HTML5 & CSS3
 Clone the repository and run it locally:
 
 git clone https://github.com/VandanJadhav/simpleCalculator.git
+<<<<<<< HEAD
 
 cd simpleCalculator
 
 npm install
 
 npm start
+=======
+cd simpleCalculator
+npm install
+npm start
+>>>>>>> 7b840a8 (Add Screenshot to project)
